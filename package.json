@@ -2,7 +2,7 @@
   "name": "blacklite",
   "displayName": "BlackLite",
   "description": "A simple, dark theme for Visual Studio Code.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.104.0"
   },
@@ -17,5 +17,10 @@
         "path": "./themes/BlackLite-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "url": "https://github.com/Liam-Ralph/vscode-blacklite"
+  },
+  "publisher": "LiamRalph",
+  "icon": "./images/logo.png"
 }
