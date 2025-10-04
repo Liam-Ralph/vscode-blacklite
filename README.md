@@ -25,9 +25,11 @@ Screenshots also use the icon theme from Ayu.
 ![Editing Python code with BlackLite](https://github.com/Liam-Ralph/vscode-blacklite/raw/HEAD/images/ss-python.png "Editing Python")
 ![Editing Java code with BlackLite](https://github.com/Liam-Ralph/vscode-blacklite/raw/HEAD/images/ss-java.png "Editing Java")
 ![Editing C# code with BlackLite](https://github.com/Liam-Ralph/vscode-blacklite/raw/HEAD/images/ss-csharp.png "Editing C#")
+![Editing Markdown with BlackLite](https://github.com/Liam-Ralph/vscode-blacklite/raw/HEAD/images/ss-markdown.png "Editing Markdown")
 
 <br/>
 
 ## Installation
 This extension should be installable from the Visual
-Studio Code extension store.
+Studio Code extension store. Alternatively, `ext install LiamRalph.blacklite`
+should work.
