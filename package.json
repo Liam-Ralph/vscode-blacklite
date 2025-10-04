@@ -1,0 +1,21 @@
+{
+  "name": "blacklite",
+  "displayName": "BlackLite",
+  "description": "A simple, dark theme for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BlackLite",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BlackLite-color-theme.json"
+      }
+    ]
+  }
+}
