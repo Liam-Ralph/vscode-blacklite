@@ -1,9 +1,3 @@
-# Change Log
+## Version 1.0.0 (October 2025)
 
-All notable changes to the "blacklite" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+Initial theme release on Visual Studio Code.

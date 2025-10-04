@@ -1,16 +1,17 @@
-# blacklite README
+# BlackLite
+### Released October 2025
+### Version 1.0.0
+### Updated October 2025
 
-## Working with Markdown
+<br/>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Description
+A simple, dark theme for Visual Studio Code.
+Theme heavily edited from the
+[Ayu theme for VS Code](https://github.com/ayu-theme/vscode-ayu).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<br/>
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Installation
+This extension should be installable from the Visual
+Studio Code extension store.
