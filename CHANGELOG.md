@@ -1,14 +1,20 @@
 ## Version 1.0.3 (October 2025)
 
- - Update README.md.
- - Add screenshot for markdown.
+ - Changed GitHub link.
+ - Changed workbench link colours.
+ - Changed Markdown screenshot.
+
+## Version 1.0.3 (October 2025)
+
+ - Updated README.md.
+ - Added screenshot for markdown.
 
 ## Version 1.0.2 (October 2025)
 
- - Edit markdown.
- - Add logo, screenshots.
- - Edit markdown link description colour.
- - Add keyword.type to variable type color.
+ - Edited markdown.
+ - Added logo, screenshots.
+ - Edited markdown link description colour.
+ - Added keyword.type to variable type color.
 
 ## Version 1.0.1 (October 2025)
 
