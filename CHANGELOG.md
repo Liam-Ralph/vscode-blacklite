@@ -1,4 +1,9 @@
-## Version 1.0.3 (October 2025)
+## Version 1.0.5 (October 2025)
+
+ - Changed colour for classes and structs.
+ - Added documentation comment colour to Python.
+
+## Version 1.0.4 (October 2025)
 
  - Changed GitHub link.
  - Changed workbench link colours.

@@ -243,7 +243,8 @@
         {
             "name": "Documentation Comments",
             "scope": [
-                "comment.block.documentation"
+                "comment.block.documentation",
+                "string.quoted.docstring"
             ],
             "settings": {
                 "foreground": "#80aaaa"
@@ -330,7 +331,7 @@
                 "invalid"
             ],
             "settings": {
-                "foreground": "#aa0000"
+                "foreground": "#600000"
             }
         },
         {
@@ -388,7 +389,7 @@
                 "entity.name.type"
             ],
             "settings": {
-                "foreground": "#aa0000"
+                "foreground": "#ff0000"
             }
         },
         {
