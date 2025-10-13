@@ -1,3 +1,7 @@
+## Version 1.0.6 (October 2025)
+
+ - Changed colours for status bar during debugging.
+
 ## Version 1.0.5 (October 2025)
 
  - Changed colour for classes and structs.
@@ -19,7 +23,7 @@
  - Edited markdown.
  - Added logo, screenshots.
  - Edited markdown link description colour.
- - Added keyword.type to variable type color.
+ - Added keyword.type to variable type colour.
 
 ## Version 1.0.1 (October 2025)
 
