@@ -1,3 +1,7 @@
+## Version 1.0.7 (October 2025)
+
+ - Modified selection background colours so they stand out more.
+
 ## Version 1.0.6 (October 2025)
 
  - Changed colours for status bar during debugging.

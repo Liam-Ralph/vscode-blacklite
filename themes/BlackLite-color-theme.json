@@ -5,7 +5,7 @@
         "focusBorder": "#404040",
         "foreground": "#808080",
         "widget.shadow": "#000000",
-        "selection.background": "#303030",
+        "selection.background": "#80808060",
         "icon.foreground": "#808080",
         "errorForeground": "#aa0000",
         "descriptionForeground": "#808080",
@@ -50,7 +50,7 @@
         "list.highlightForeground": "#ffffff60",
         "list.deemphasizedForeground": "#800000",
         "list.hoverBackground": "#121212",
-        "list.inactiveSelectionBackground": "#121212",
+        "list.inactiveSelectionBackground": "#80808060",
         "list.inactiveSelectionForeground": "#707070",
         "list.invalidItemForeground": "#808080",
         "list.errorForeground": "#aa0000",
@@ -101,9 +101,9 @@
         "editorLineNumber.activeForeground": "#b0b0b0",
         "editorCursor.foreground": "#aaaaaa",
         "editor.selectionBackground": "#80808060",
-        "editor.inactiveSelectionBackground": "#80808020",
+        "editor.inactiveSelectionBackground": "#80808040",
         "editor.selectionHighlightBackground": "#80808040",
-        "editor.selectionHighlightBorder": "#00000000", 
+        "editor.selectionHighlightBorder": "#00000000",
         "editor.wordHighlightBackground": "#80808040",
         "editor.wordHighlightBorder": "#00000000",
         "editor.wordHighlightStrongBackground": "#80808040",
@@ -253,7 +253,7 @@
         {
             "name": "Text Constants",
             "scope": [
-                "constant.character", 
+                "constant.character",
                 "constant.character.escape",
                 "constant.regexp"
             ],
@@ -264,7 +264,7 @@
         {
             "name": "Language Constant",
             "scope": [
-                "constant.language", 
+                "constant.language",
                 "entity.name.function.preprocessor"
             ],
             "settings": {
