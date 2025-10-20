@@ -353,7 +353,7 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#ff4038"
+                "foreground": "#a040dd"
             }
         },
         {
@@ -389,7 +389,7 @@
                 "entity.name.type"
             ],
             "settings": {
-                "foreground": "#ff0000"
+                "foreground": "#ff4038"
             }
         },
         {
@@ -438,7 +438,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#4060e0"
+                "foreground": "#7040cc"
             }
         },
         {
@@ -448,7 +448,7 @@
                 "heading.2.markdown"
             ],
             "settings": {
-                "foreground": "#88a0ff"
+                "foreground": "#9850c0"
             }
         },
         {
@@ -558,7 +558,7 @@
                 "keyword.other"
             ],
             "settings": {
-                "foreground": "#ee6868"
+                "foreground": "#ee7878"
             }
         },
         {

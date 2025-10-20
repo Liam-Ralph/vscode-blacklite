@@ -1,3 +1,8 @@
+## Version 1.0.8 (October 2025)
+
+ - Changed function colour to differentiate from classes/structs.
+ - Changed Markdown heading colours.
+
 ## Version 1.0.7 (October 2025)
 
  - Modified selection background colours so they stand out more.

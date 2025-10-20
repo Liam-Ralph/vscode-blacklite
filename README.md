@@ -1,6 +1,6 @@
 # BlackLite
 ### Released October 2025
-### Version 1.0.7
+### Version 1.0.8
 ### Updated October 2025
 
 <br/>
