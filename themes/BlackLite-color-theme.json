@@ -110,7 +110,7 @@
         "editor.wordHighlightStrongBorder": "#00000000",
         "editor.findMatchBackground": "#80808040",
         "editor.findMatchBorder": "#00000000",
-        "editor.findMatchHighlightBackground": "#80808060",
+        "editor.findMatchHighlightBackground": "#0540a060",
         "editor.findMatchHighlightBorder": "#00000000",
         "editor.findRangeHighlightBackground": "#80808020",
         "editor.rangeHighlightBackground": "#80808020",

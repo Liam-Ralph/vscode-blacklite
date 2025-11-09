@@ -1,3 +1,7 @@
+## Version 1.0.9 (November 2025)
+
+ - Changed colour for editor find matches to distinguish from highlight matches.
+
 ## Version 1.0.8 (October 2025)
 
  - Changed function colour to differentiate from classes/structs.
