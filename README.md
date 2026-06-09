@@ -10,6 +10,7 @@
 <br/>
 
 ## Description
+
 A simple, dark theme for Visual Studio Code. Available on
 [GitHub](https://github.com/Liam-Ralph/vscode-blacklite).
 Theme heavily edited from the
@@ -30,6 +31,7 @@ Screenshots also use the icon theme from Ayu.
 <br/>
 
 ## Installation
+
 This extension should be installable from the Visual
 Studio Code extension store. Alternatively, `ext install LiamRalph.blacklite`
 should work.
